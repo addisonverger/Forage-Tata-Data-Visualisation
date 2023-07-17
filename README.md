@@ -16,7 +16,7 @@ The CEO & CMO have tasked me with creating visuals for the metrics the online re
 
 ## Task 3: Creating Effective Visuals
 
-* Create 4 visualisations based on questions that the CEO & CMO have requested.
+* Create 4 visualizations based on questions that the CEO & CMO have requested.
 
 The CEO and CMO have finalized the requirements and would like me to provide them with some analysis and visuals that would help answer their questions. The executives want to analyse the trends and the breakdown by different categories so that they have clarity on how the revenue is being generated and what are the main factors affecting the online store. Utilizing the preliminary work from Task 1 and 2, I created my visualizations for each given scenaro using Tableau. I performed data cleaning on the data set using calculated field filters within Tableau to exclude those quantities below 1 and prices below 0.
 
